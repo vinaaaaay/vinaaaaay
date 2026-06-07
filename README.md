@@ -1,5 +1,4 @@
-### 🚀 What I'm Building & Exploring
-* **Visualizations:** Rendering high-dimensional model mechanics and LLM generation processes into interactive 3D spaces.
+### extreme
 
 <p align="center">
   <img src="preview.jpg" alt="" width="100%" style="border-radius: 8px;" />
