@@ -1,7 +1,5 @@
 <div align="center">
 
-| 🖼️ Profile Art | 👤 Information |
-| :--- | :--- |
-| <pre><br>-======---===++-==------==---=========   <br>--=====---=-=++===========---=========   <br>=-===-=--=+====-------=-==--==========   <br>=========-==::----:-=+===--=======-==    <br>---====-------:::---=-===-===-========   <br>-----=:-----:-==+=:+-:*+=:-=-=======-=   <br>------:::--==+**###%%*+#*+::--===-==--   <br>-------:::::::-:-+-:::---*=-:=----==--   <br>------=+=+:-=:::*%%=---==%#+%#-----=--   <br>-------+=+++++++==#%%#%#%%%%%==-------   <br>----------++++-=+*#%###%#:-:----------   <br>:::::::::::-+=++**#%%%###--:::::::::::   <br>------------++=====++##%%*%-----------   <br>-----------#++++++*%#%%%%%#@@@--------   <br>::::::###***===++++*#####+@@@%%@%%@@@:   <br>###%%#%###****++===+*%%%%%%@@%@@%%@%%@   <br>@%#%#**####%####+#++%%%%@#%@@%%@@%@%%%   <br>%#%@%%@%###***%@%*+%@@@#@@%#%%%%%@@%#%   </pre> | ### 👤 vinaaaaay<br><br>**💻 OS:** macOS, Linux<br>**🖥️ Host:** Mac M2 Air<br>**⚙️ IDE:** Antigravity, nvim<br><br>---<br><br>### 🛠️ Skills & Interests<br><br>**👨‍💻 Languages:** Python, C++, Rust<br>**🗣️ Languages (Real):** English, Hindi<br>**🤖 Interests:** Agentic AI<br><br>---<br><br>### ✨ Hobbies<br><br>**👾 Software:** Break Everything<br>**🎹 Hardware:** Creamy Keyboard<br><br>---<br><br>### 📫 Contact<br><br>**✉️ Email:** [karmanvinay@gmail.com](mailto:karmanvinay@gmail.com)<br>**🔗 LinkedIn:** [linkedin.com/in/vinaaaay/](https://www.linkedin.com/in/vinaaaay/) |
+<img src="./profile_card.svg" alt="vinaaaaay's profile card" width="1062" />
 
 </div>
