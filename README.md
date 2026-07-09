@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="./profile_card.svg" alt="vinaaaaay's profile card" width="774" />
+<img src="./card.svg" alt="vinaaaaay's profile card" width="774" />
 
 </div>
